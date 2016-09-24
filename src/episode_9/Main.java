@@ -1,4 +1,4 @@
-package episode_9;
+package individual game program;
 
 import java.util.Random;
 import java.util.Scanner;
